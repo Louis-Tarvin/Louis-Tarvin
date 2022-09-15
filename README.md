@@ -2,10 +2,10 @@
 
 ### About Me
 - I'm in my 4th year studying computer science at the University of Warwick
-- I'm currently helping develop DOXA
+- I'm currently helping develop [DOXA](https://github.com/DoxaAI)
 - You can read more about some of the stuff I've worked on on [my website](https://louistarvin.uk/)
 
-### Tools / Languages
+### Languages & Tools I'm Familiar With
 
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&color=202020&logo=rust&logoColor=efefef)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&color=202020&logo=javascript&logoColor=dfb914)
@@ -17,18 +17,3 @@
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&color=202020&logo=git&logoColor=orange)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&color=202020&logo=linux&logoColor=dfb914)
 ![NeoVim](https://img.shields.io/badge/-NeoVim-000000?style=for-the-badge&color=202020&logo=neovim&logoColor=4b9e4b)
-
-<!--
-**Louis-Tarvin/Louis-Tarvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
