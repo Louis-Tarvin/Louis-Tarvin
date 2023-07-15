@@ -1,10 +1,5 @@
 <h1 align="center">Hi, I'm Louis Tarvin 👋</h1>
 
-### About Me
-- I'm in my 4th year studying computer science at the University of Warwick
-- I'm currently helping develop [DOXA](https://doxaai.com/)
-- You can read more about some of the stuff I've worked on on [my website](https://louistarvin.uk/)
-
 ### Languages & Tools I'm Familiar With
 
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&color=202020&logo=rust&logoColor=efefef)
